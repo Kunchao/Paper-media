@@ -6,5 +6,5 @@ advanced learning in Python
 - **导入mysql** ：存储大量数据，方便团队合作共享；
 - **worldcloud** ：敬请期待，要搞一个大事情！
 
-[网站链接](http://www.nybooks.com/daily/)
-![post](./选区_040.png)
+[纽约书评](http://www.nybooks.com/daily/)
+![网站局部图](./NYRdaily.png)
